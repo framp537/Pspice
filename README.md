@@ -212,4 +212,4 @@ PSpice is offered as a full free version with all features and updates included.
 Start your circuit design journey today! Download PSpice for free and unleash the full potential of your electronic projects.
 
 ---
-**Last updated:** 2026-09-19 00:50:41 UTC
+**Last updated:** 2026-09-19 05:21:24 UTC
